@@ -1,0 +1,40 @@
+html, body {
+        margin: 0;
+        padding: 0;
+}
+
+body {
+    font-size : 75%;
+    color : #555753;
+    width : 100%;
+    background-color: #fff;
+}
+header h1 {
+    text-align: center;
+}
+p{
+    padding: 1.25em;
+}
+nav ul {
+    text-align : center;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+}
+footer {
+    text-align: center;
+    padding: 2px;
+}
+
+footer p{ 
+    display: inline-block;
+}      
+
+img {
+        width: 100%;
+        max-width: 100%;
+
+     }
+
